@@ -1,0 +1,3 @@
+[submodule "rtcprgb2gray"]
+	path = rtcprgb2gray
+	url = https://github.com/alexvonduar/rtcprgb2gray.git
